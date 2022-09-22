@@ -1,0 +1,35 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-image: url('forgot.png');
+	background-size:cover;
+	background-position:center;
+	font-family: sans-serif;
+}
+.email
+{
+ width:30%;
+ height:8%;
+ border-radius:10px;
+}
+.fp
+{
+ font-family:cm sans serif 2012;
+ font-size:80%;
+ text-decoration:underline;
+ color:blue;
+}
+.na
+{
+ font-family:cm sans serif 2012;
+ font-size:80%;
+ color:black;
+}
+.ns
+{
+ font-family:cm sans serif 2012;
+ font-size:80%;
+ text-decoration:underline;
+ color:blue;
+}
